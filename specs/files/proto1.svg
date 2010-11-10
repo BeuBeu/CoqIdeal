@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.47pre4 r22446"
+   sodipodi:docname="proto1.svg"
+   inkscape:export-filename="/home/flo/Desktop/IPE/proto1.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mstart"
+       style="overflow:visible">
+      <path
+         id="path3887"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none"
+         transform="scale(0.4) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mend"
+       style="overflow:visible;">
+      <path
+         id="path3890"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <filter
+       inkscape:collect="always"
+       id="filter3849">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.5808218"
+         id="feGaussianBlur3851" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="501.86841"
+     inkscape:cy="870.07689"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer4"
+     showgrid="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="1151"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="false"
+     inkscape:object-paths="true"
+     inkscape:bbox-nodes="false"
+     inkscape:snap-global="false" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.97798604000000000;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
+       id="rect3588"
+       width="729.02203"
+       height="409.69681"
+       x="4.7747102"
+       y="105.37092" />
+    <rect
+       style="fill:#000000;fill-opacity:0.11764706;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3613"
+       width="217.14285"
+       height="403.57144"
+       x="7.8571429"
+       y="108.4336" />
+    <rect
+       style="fill:#000000;fill-opacity:0.11764706;stroke:#000000;stroke-width:1.11889994;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3615"
+       width="502.84531"
+       height="403.94211"
+       x="227.84885"
+       y="108.24827" />
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="66.125832"
+       y="315.73691"
+       id="text3617"><tspan
+         sodipodi:role="line"
+         id="tspan3619"
+         x="66.125832"
+         y="315.73691">Doc Panel</tspan></text>
+    <path
+       id="path3663"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 694.98495,155.59926 15.9099,57.07362 m -15.76487,-57.32357 35.50508,26.21936 M 651.42857,210.93361 695,155.21932 m 0.71429,0.71429 -37.35207,-47.81382 m -97.29079,258.70668 -83.92857,57.85714 m 23.56737,-316.60308 c 0,0 -51.06331,34.09902 -50.97949,35.07976 0.0838,0.98073 101.88328,67.95877 101.88328,67.95877 M 449.82143,143.07647 c 0,0 -85.53572,116.42857 -85.53572,116.42857 M 681.42857,357.36218 607.5,302.18361 m 31.07143,115.17857 -77.14286,-50.89286 m 27.14286,55.89286 -27.14286,-55.71428 m -34.28571,59.28571 34.28571,-59.28571 m 0,0 45.71429,-64.28572 m 0.17857,0 -55.71429,-91.42857 m -69.46428,61.42857 69.46429,-61.60714 m -245.17858,126.60714 58.21429,-78.21429 m 23.21428,84.64286 -23.03572,-84.64286" />
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Consolas;-inkscape-font-specification:Consolas"
+       x="289.28571"
+       y="272.36218"
+       id="text3711"><tspan
+         sodipodi:role="line"
+         id="tspan3713"></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Consolas;-inkscape-font-specification:Consolas"
+       x="245"
+       y="139.50504"
+       id="text3719"><tspan
+         sodipodi:role="line"
+         id="tspan3721"
+         x="245"
+         y="139.50504"
+         style="-inkscape-font-specification:FreeSans;font-family:FreeSans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">Proof tree Panel</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="tab bar"
+     style="display:inline">
+    <rect
+       style="opacity:0.96999995999999999;fill:#e1e1e1;fill-opacity:1;stroke:#000000;stroke-width:0.77140193999999984;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+       id="rect3854"
+       width="246.45329"
+       height="27.024387"
+       x="227.67511"
+       y="75.430367" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.02376533px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 310.96709,76.073795 0,26.468405"
+       id="path3868" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 393.63971,75.544671 0,26.263969"
+       id="path3870" />
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+       x="234.35539"
+       y="93.283257"
+       id="text3856"><tspan
+         sodipodi:role="line"
+         id="tspan3858"
+         x="234.35539"
+         y="93.283257"
+         style="font-size:14px">Proof 1     x   Proof 2     x   Proof 3     x</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:1, 4;stroke-dashoffset:0;marker-end:none;marker-start:url(#Arrow1Mstart)"
+       d="M 481.84276,88.676654 C 541.60862,83.285396 629.72024,65.69631 648.51793,20.996434"
+       id="path3876"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+       x="624.27429"
+       y="16.691856"
+       id="text4698"><tspan
+         sodipodi:role="line"
+         id="tspan4700"
+         x="624.27429"
+         y="16.691856">Proof tabs</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="popup"
+     style="display:inline">
+    <path
+       id="path3723"
+       d="m 238.82227,162.93865 132.16829,0 132.16829,0 0,240.10374 25.08411,26.70106 -25.08411,20.88163 0,55.22159 -264.33658,0 0,-342.90802 z"
+       style="opacity:0.08;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.00199996999999996;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;filter:url(#filter3849)" />
+    <path
+       style="opacity:0.70000006;fill:#bebebe;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 234.82227,158.93865 132.16829,0 132.16829,0 0,240.10374 25.08411,26.70106 -25.08411,20.88163 0,55.22159 -264.33658,0 0,-342.90802 z"
+       id="path3676" />
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Consolas;-inkscape-font-specification:Consolas"
+       x="240.92857"
+       y="491.29074"
+       id="text3686"><tspan
+         sodipodi:role="line"
+         id="tspan3688"
+         x="240.92857"
+         y="491.29074"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:FreeMono;-inkscape-font-specification:FreeMono Bold">Coq &lt;</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.04641986;stroke-linecap:butt;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3695"
+       width="208.44098"
+       height="28.507986"
+       x="290.69467"
+       y="473.31549" />
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+       x="296.22723"
+       y="498.04099"
+       id="text3697"><tspan
+         sodipodi:role="line"
+         id="tspan3699"
+         x="296.22723"
+         y="498.04099" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#969696;fill-opacity:1;stroke:none;font-family:FreeMono;-inkscape-font-specification:FreeMono"
+       x="295.48993"
+       y="489.47498"
+       id="text3701"><tspan
+         sodipodi:role="line"
+         id="tspan3703"
+         x="295.48993"
+         y="489.47498"
+         style="fill:#bebebe;fill-opacity:1">Enter your command here</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Consolas;-inkscape-font-specification:Consolas"
+       x="458.86179"
+       y="552.84174"
+       id="text3705"><tspan
+         sodipodi:role="line"
+         id="tspan3707"
+         x="458.86179"
+         y="552.84174" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Consolas;-inkscape-font-specification:Consolas"
+       x="322.99057"
+       y="337.57266"
+       id="text3715"><tspan
+         sodipodi:role="line"
+         id="tspan3717"
+         x="322.99057"
+         y="337.57266"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:FreeSans">Goal Panel</tspan></text>
+  </g>
+</svg>

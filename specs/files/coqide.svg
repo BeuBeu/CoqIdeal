@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.47pre4 r22446"
+   sodipodi:docname="coqide.svg">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-60.450034 : 699.99772 : 1"
+       inkscape:vp_y="0 : 2256.7491 : 0"
+       inkscape:vp_z="639.43136 : 661.31059 : 1"
+       inkscape:persp3d-origin="526.76658 : 349.31314 : 1"
+       id="perspective10" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="366.11284"
+     inkscape:cy="630.25702"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="720"
+     inkscape:window-height="851"
+     inkscape:window-x="717"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     showguides="true"
+     inkscape:snap-to-guides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="0,0"
+       orientation="0,744.09448"
+       id="guide5264" />
+    <sodipodi:guide
+       position="722.85714,1052.3622"
+       orientation="-1052.3622,0"
+       id="guide5266" />
+    <sodipodi:guide
+       position="744.09448,1052.3622"
+       orientation="0,-744.09448"
+       id="guide5268" />
+    <sodipodi:guide
+       position="20,1052.3622"
+       orientation="1052.3622,0"
+       id="guide5270" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="20,480"
+       id="guide5294" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="385.71429,948.57143"
+       id="guide5296" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.04653049;stroke-opacity:1"
+       id="rect5216"
+       width="719.18213"
+       height="581.80133"
+       x="14.266924"
+       y="106.88266"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="107.14286"
+       y="138.07648"
+       id="text5220"><tspan
+         sodipodi:role="line"
+         id="tspan5222"
+         x="107.14286"
+         y="138.07648" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="102.85714"
+       y="139.50504"
+       id="text5224"><tspan
+         sodipodi:role="line"
+         id="tspan5226"
+         x="102.85714"
+         y="139.50504" /></text>
+    <g
+       id="g5258"
+       transform="translate(-0.70891571,1.4285714)">
+      <g
+         id="g5255">
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.04440689;stroke-opacity:1"
+           id="rect5218"
+           width="703.32538"
+           height="28.108599"
+           x="20.708916"
+           y="116.6701" />
+      </g>
+      <text
+         id="text5228"
+         y="134.20917"
+         x="32.513401"
+         style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="134.20917"
+           x="32.513401"
+           id="tspan5230"
+           sodipodi:role="line">File     Edit     Navigation     Try Tactics     Templates     Queries     Display     Compile     Windows     Help</tspan></text>
+    </g>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.0010066;stroke-opacity:1"
+       id="rect5253"
+       width="702.85712"
+       height="89.997978"
+       x="20"
+       y="585.22034" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.00491321000000000;stroke-opacity:1;font-size:20"
+       id="rect5272"
+       width="353.75153"
+       height="413.14746"
+       x="20.002457"
+       y="159.38979" />
+    <rect
+       style="fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:1.00325525;stroke-opacity:1"
+       id="rect5274"
+       width="337.14285"
+       height="244.45691"
+       x="385.71429"
+       y="160.39749" />
+    <rect
+       style="fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:1.01493859;stroke-opacity:1"
+       id="rect5276"
+       width="337.14285"
+       height="151.51279"
+       x="385.71429"
+       y="420.01175" />
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="290.19809"
+       y="637.67535"
+       id="text5278"><tspan
+         sodipodi:role="line"
+         id="tspan5280"
+         x="290.19809"
+         y="637.67535">Command Panel</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="122.48369"
+       y="371.48108"
+       id="text5282"><tspan
+         sodipodi:role="line"
+         id="tspan5284"
+         x="122.48369"
+         y="371.48108">Scripting Panel</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="502.79974"
+       y="290.082"
+       id="text5286"><tspan
+         sodipodi:role="line"
+         id="tspan5288"
+         x="502.79974"
+         y="290.082">Goal Panel</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="477.49701"
+       y="503.22418"
+       id="text5290"><tspan
+         sodipodi:role="line"
+         id="tspan5292"
+         x="477.49701"
+         y="503.22418">Feedback Panel</tspan></text>
+  </g>
+</svg>

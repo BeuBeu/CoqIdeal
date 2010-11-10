@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="744.09448"
+   height="1052.3622"
+   id="svg2">
+  <defs
+     id="defs4" />
+  <g
+     id="layer1">
+    <rect
+       width="719.18213"
+       height="581.80133"
+       ry="0"
+       x="14.266924"
+       y="106.88266"
+       id="rect5216"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.04653049;stroke-opacity:1" />
+    <text
+       x="107.14286"
+       y="138.07648"
+       id="text5220"
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"><tspan
+         x="107.14286"
+         y="138.07648"
+         id="tspan5222" /></text>
+    <text
+       x="102.85714"
+       y="139.50504"
+       id="text5224"
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"><tspan
+         x="102.85714"
+         y="139.50504"
+         id="tspan5226" /></text>
+    <g
+       transform="translate(-0.70891571,1.4285714)"
+       id="g5258">
+      <g
+         id="g5255">
+        <rect
+           width="703.32538"
+           height="28.108599"
+           x="20.708916"
+           y="116.6701"
+           id="rect5218"
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.04440689;stroke-opacity:1" />
+      </g>
+      <text
+         x="32.513401"
+         y="134.20917"
+         id="text5228"
+         xml:space="preserve"
+         style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"><tspan
+           x="32.513401"
+           y="134.20917"
+           id="tspan5230">File     Edit     Navigation     Try Tactics     Templates     Queries     Display     Compile     Windows     Help</tspan></text>
+    </g>
+    <rect
+       width="702.85712"
+       height="89.997978"
+       x="20"
+       y="585.22034"
+       id="rect5253"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.0010066;stroke-opacity:1" />
+    <rect
+       width="353.75153"
+       height="413.14746"
+       x="20.002457"
+       y="159.38979"
+       id="rect5272"
+       style="font-size:20px;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.00491321;stroke-opacity:1" />
+    <rect
+       width="337.14285"
+       height="244.45691"
+       x="385.71429"
+       y="160.39749"
+       id="rect5274"
+       style="fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:1.00325525;stroke-opacity:1" />
+    <rect
+       width="337.14285"
+       height="151.51279"
+       x="385.71429"
+       y="420.01175"
+       id="rect5276"
+       style="fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:1.01493859;stroke-opacity:1" />
+    <text
+       x="290.19809"
+       y="637.67535"
+       id="text5278"
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"><tspan
+         x="290.19809"
+         y="637.67535"
+         id="tspan5280">Command Panel</tspan></text>
+    <text
+       x="122.48369"
+       y="371.48108"
+       id="text5282"
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"><tspan
+         x="122.48369"
+         y="371.48108"
+         id="tspan5284">Scripting Panel</tspan></text>
+    <text
+       x="502.79974"
+       y="290.082"
+       id="text5286"
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"><tspan
+         x="502.79974"
+         y="290.082"
+         id="tspan5288">Goal Panel</tspan></text>
+    <text
+       x="477.49701"
+       y="503.22418"
+       id="text5290"
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"><tspan
+         x="477.49701"
+         y="503.22418"
+         id="tspan5292">Feedback Panel</tspan></text>
+  </g>
+</svg>
